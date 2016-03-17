@@ -1,7 +1,7 @@
 <?php 	
- $filename = “FILE_IO.CSV” ;
+$filename = "FILE_IO.CSV" ;
 $filesize = filesize( $filename ) ;
 $filestream = fopen( $filename,
-‘r’ );
+'r' );
 $content = fread($filestream, $size);
 fclose( $filestream );
