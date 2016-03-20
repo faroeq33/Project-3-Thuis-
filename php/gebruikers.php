@@ -16,8 +16,3 @@ while($gebruikers = $getUsers->fetch(PDO::FETCH_ASSOC)){
         "EMAIL" => $gebruikers['email']
     ));
 }
-
-
-
-
-
