@@ -1,0 +1,2 @@
+-Hoe gebruik je regexp?
+-De tekst die je doorzoekt heeft orgineel gezien spaties. de editor kan dat denk ik niet zien. moet je dan zelf met regexp notaties spaties invoegen?
