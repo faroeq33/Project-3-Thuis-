@@ -1,0 +1,18 @@
+Zoek op wat PDO fetch is
+Zoek op wat bindparam
+Zoek op wat try and catch is
+
+-(fixed) Ik krijg deze warning als ik template power include: 
+TemplatePower Error: Couldn't open or read [ html/gebruikers.html ]!
+
+-phpmyadmin/ 
+username: root
+password:
+
+04-04-16:
+-I had problem with my wamp. I fixed it. It works now.
+-Started with my 'FO'. Moscow stuff.
+-next time start a new repository for Dion and I and add: PVA and FO.
+
+05-04-16:
+-Started to learn PDO connect from Bakker's email.

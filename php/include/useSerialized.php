@@ -12,7 +12,7 @@ $tpl->serializedBase()
 //to see an example of this script). After running you can 
 //access it in this script.
 
-$tpl->prepare()
+$tpl->prepare();
 
 /* do the things you normally do here */
 
