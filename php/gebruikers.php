@@ -10,6 +10,7 @@ if (isset($_GET['actie'])) {
 } else {
 	$actie = NULL;
 }
+<<<<<<< HEAD
 
 switch ($actie) {
 	case "toevoegen":
@@ -151,3 +152,5 @@ switch ($actie) {
 			));
 		}
 }
+=======
+>>>>>>> 4d30679a44f13b8eb51c3a4847a7026f49573679
